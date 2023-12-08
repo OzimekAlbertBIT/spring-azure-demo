@@ -11,7 +11,7 @@ public class JavatechieApplication {
 
     @GetMapping("/message")
     public String message() {
-        return "Congratulations. Your app has been deployed successfully in Azure";
+        return "Congratulations. Your app has been deployed successfully in Azure 222";
     }
 
     public static void main(String[] args) {
